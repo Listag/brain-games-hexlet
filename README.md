@@ -21,7 +21,7 @@ make install
 ## Brain-even
 Выводится случайное число, пользователь должен ответить "да", если число четное, в ином случае - "нет". Запск игры - brain-even или make brain-even.
 
-https://asciinema.org/a/dPUZGaNbBKVkHa9jpqslNFMyR
+[gif](https://asciinema.org/a/dPUZGaNbBKVkHa9jpqslNFMyR)
 
 ### Hexlet tests and linter status:
 
