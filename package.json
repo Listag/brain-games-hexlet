@@ -4,8 +4,9 @@
   "description": "[![Actions Status](https://github.com/Listag/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/Listag/frontend-project-lvl1/actions)",
   "main": "index.js",
   "bin": {
-    "brain-games": "bin/brain-games.js",
-    "brain-even": "bin/brain-even.js"
+    "brain-even": "bin/brain-even.js",
+    "brain-games": "bin/brain-games.js"
+    
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
