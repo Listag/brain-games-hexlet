@@ -12,16 +12,21 @@
 ```
 git clone git@github.com:Listag/frontend-project-lvl1.git
 ```
-установить зависимости!
+установить зависимости
 ```
 make install
 ```
 и запустить игру (команды находятся в описании к играм).
 
 ## Brain-even
-Выводится случайное число, пользователь должен ответить "да", если число четное, в ином случае - "нет". Запск игры - brain-even или make brain-even.
+Выводится случайное число, пользователь должен ответить "да", если число четное, в ином случае - "нет". Запуск игры - brain-even или make brain-even.
 
 [![asciicast](https://asciinema.org/a/dPUZGaNbBKVkHa9jpqslNFMyR.svg)](https://asciinema.org/a/dPUZGaNbBKVkHa9jpqslNFMyR)
+
+## Brain-even
+Выводится случайное выражение, пользователь должен вписать в консоль правильное значение выражения. Запуск игры - brain-calc или make brain-calc.
+
+[![asciicast](https://asciinema.org/a/r8npwVcmBtMHe9ozin42V5xic.svg)](https://asciinema.org/a/r8npwVcmBtMHe9ozin42V5xic)
 
 ### Hexlet tests and linter status:
 
