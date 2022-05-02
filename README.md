@@ -23,7 +23,7 @@ make install
 
 [![asciicast](https://asciinema.org/a/dPUZGaNbBKVkHa9jpqslNFMyR.svg)](https://asciinema.org/a/dPUZGaNbBKVkHa9jpqslNFMyR)
 
-## Brain-even
+## Brain-calc
 Выводится случайное выражение, пользователь должен вписать в консоль правильное значение выражения. Запуск игры - brain-calc или make brain-calc.
 
 [![asciicast](https://asciinema.org/a/r8npwVcmBtMHe9ozin42V5xic.svg)](https://asciinema.org/a/r8npwVcmBtMHe9ozin42V5xic)
