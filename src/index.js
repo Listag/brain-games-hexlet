@@ -11,7 +11,6 @@ const game = (rules, getQuestionAndAnswer) => {
     const [question, correctAnswer] = getQuestionAndAnswer();
     console.log(`Question: ${question}`);
     const answer = readlineSync.question("Your answer: ");
-
     if (answer === correctAnswer) {
       console.log('Correct!');
     } else {
