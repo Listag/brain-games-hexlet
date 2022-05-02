@@ -28,6 +28,11 @@ make install
 
 [![asciicast](https://asciinema.org/a/r8npwVcmBtMHe9ozin42V5xic.svg)](https://asciinema.org/a/r8npwVcmBtMHe9ozin42V5xic)
 
+## Brain-gcd
+Выводится два случайных числа, пользователь должен вычислить и ввести наибольший общий делитель этих чисел. Запуск игры - brain-gcd или make brain-gcd.
+
+[![asciicast](https://asciinema.org/a/Ce4Q5mkIjDdCMi4mBSXBxL8Uw.svg)](https://asciinema.org/a/Ce4Q5mkIjDdCMi4mBSXBxL8Uw)
+
 ### Hexlet tests and linter status:
 
 [![Actions Status](https://github.com/Listag/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/Listag/frontend-project-lvl1/actions)
