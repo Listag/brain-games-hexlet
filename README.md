@@ -12,7 +12,7 @@
 ```
 git clone git@github.com:Listag/frontend-project-lvl1.git
 ```
-установить зависимости
+установить зависимости!
 ```
 make install
 ```
