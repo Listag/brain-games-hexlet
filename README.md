@@ -49,6 +49,12 @@ make install
 
 [![asciicast](https://asciinema.org/a/W0MOHlGHM1TPuVvv6Wn4rraxz.svg)](https://asciinema.org/a/W0MOHlGHM1TPuVvv6Wn4rraxz)
 
+## Brain-prime
+
+Выводится случайное число, пользователь должен ответить "да", если число простое, в ином случае - "нет". Запуск игры - brain-prime или make brain-prime.
+
+[![asciicast](https://asciinema.org/a/jzZ1sZzdvEgoFb18zPDUsAY8m.svg)](https://asciinema.org/a/jzZ1sZzdvEgoFb18zPDUsAY8m)
+
 ### Hexlet tests and linter status:
 
 [![Actions Status](https://github.com/Listag/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/Listag/frontend-project-lvl1/actions)
