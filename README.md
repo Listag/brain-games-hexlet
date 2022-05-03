@@ -33,6 +33,11 @@ make install
 
 [![asciicast](https://asciinema.org/a/Ce4Q5mkIjDdCMi4mBSXBxL8Uw.svg)](https://asciinema.org/a/Ce4Q5mkIjDdCMi4mBSXBxL8Uw)
 
+## Brain-prograssion
+Выводится ряд чисел, образующий арифметическую прогрессию, но любое из чисел заменится двумя точками. Пользователь должен определить это число. Запуск игры - brain-prograssion или make brain-prograssion.
+
+[![asciicast](https://asciinema.org/a/W0MOHlGHM1TPuVvv6Wn4rraxz.svg)](https://asciinema.org/a/W0MOHlGHM1TPuVvv6Wn4rraxz)
+
 ### Hexlet tests and linter status:
 
 [![Actions Status](https://github.com/Listag/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/Listag/frontend-project-lvl1/actions)

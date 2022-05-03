@@ -18,11 +18,11 @@ const getProgration = (startNumber, step, length) => {
 }
 
 const getQuestionAndAnswer = () => {
-    const startNumber = getRandomNumber(1, 15);
+    const startNumber = getRandomNumber(0, 15);
     const step = getRandomNumber(1, 10);
     const recommendedLength = 10;
     const prograssion = getProgration(startNumber, step, recommendedLength);
-    const indexOfMissingNumber = getRandomNumber(0, 10);
+    const indexOfMissingNumber = getRandomNumber(0, recommendedLength - 1);
     const correctAnswer = String(prograssion[indexOfMissingNumber]);
     prograssion[indexOfMissingNumber] = '..';
     const question = prograssion.join(' ');
