@@ -1,7 +1,7 @@
 import game from '../index.js';
 import getRandomNumber from '../random.js';
 
-export const rules = 'What is the result of the expression?';
+const rules = 'What is the result of the expression?';
 
 const calculator = (firstArgument, secondArgument, operator) => {
   switch (operator) {
