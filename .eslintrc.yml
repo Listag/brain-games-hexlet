@@ -13,7 +13,3 @@ rules:
   no-console: 0
   import/extensions: 0 # FIXME: remove when rule will be adjusted for new nodejs version
   no-await-in-loop: 0
-
-eol-last: 0
-
-no-multiple-empty-lines: ["error", { "max": 1, "maxEOF": 0 }]

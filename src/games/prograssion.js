@@ -5,7 +5,7 @@ const rules = 'What number is missing in the progression?';
 
 const getProgration = (startNumber, step, length) => {
   const prograssion = [];
-  for (let i = 0; i < length; i++) {
+  for (let i = 0; i < length; i += 1) {
     if (prograssion.length === 0) {
       prograssion.push(startNumber);
     } else {
